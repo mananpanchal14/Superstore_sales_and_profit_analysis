@@ -34,5 +34,5 @@ This project analyzes sales and profitability data to identify key business driv
 ## Power BI Dashboard
 - Use slicers to filter by category, region, and year. Multiselect is also possible.
 - Explore product-level performance using top/bottom product tables
-
+![Dashboard](Superstore_Sales_Insights_Dashboard_SS.png)
 
